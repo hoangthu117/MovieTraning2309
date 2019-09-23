@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieTraining</string>
+    <string name="title">Tiêu đề</string>
+    <string name="view">Lượt xem:</string>
+    <string name="like"> Thích</string>
+    <string name="watchfilm">Xem phim</string>
+</resources>
